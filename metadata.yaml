@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4911
     wikipedia: http://en.wikipedia.org/wiki/Alexander_MacFarlane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13609#Vector-Analysis-and-Quaternions
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2004-10-05'
 gutenberg_type: Text
