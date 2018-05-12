@@ -1,0 +1,29 @@
+_repo: Vector-Analysis-and-Quaternions_13609
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macfarlane, Alexander
+    birthdate: 1851
+    deathdate: 1913
+    gutenberg_agent_id: '4911'
+    url: http://www.gutenberg.org/2009/agents/4911
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_MacFarlane
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2004-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Quaternions'
+- !lcsh 'Vector analysis'
+title: Vector Analysis and Quaternions
+url: http://www.gutenberg.org/ebooks/13609
